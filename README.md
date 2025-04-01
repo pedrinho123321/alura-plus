@@ -9,3 +9,7 @@ Este projeto consiste na tela inicial do Alura+, desenvolvida como parte do curs
 
 Este projeto permite reforçar habilidades em marcação e estilização, proporcionando um design moderno e responsivo.
 
+## Visualização
+
+Você pode acessar o site através do link: [Alura+](https://pedrinho123321.github.io/alura-plus/)
+
